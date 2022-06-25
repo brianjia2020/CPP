@@ -1,3 +1,5 @@
+#include <iostream>
+using namespace std;
 
 #define day 7
 
